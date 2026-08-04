@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-mandawgade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Dev-Aayush"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Pittsburgh,_PA-2563eb?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pune,_India-2563eb?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
